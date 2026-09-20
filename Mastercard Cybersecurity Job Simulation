@@ -1,0 +1,45 @@
+# Mastercard Cybersecurity Job Simulation
+
+**Role:** Security Awareness Analyst (Simulation)  
+**Organization:** Mastercard (via Forage)  
+**Domain:** Enterprise Cybersecurity, Threat Identification, Phishing Analysis & Security Awareness Training  
+**Tools & Frameworks:** Threat Analysis, Risk Assessment, Security Training Program Design  
+
+---
+
+## 1. Executive Summary
+
+During this job simulation with Mastercard’s Security Awareness Team, I evaluated enterprise security awareness, identified high-risk operational vectors, and developed targeted security training protocols. The objective was to mitigate social engineering vulnerabilities (such as phishing) and strengthen the organization's human layer of defense across critical business units.
+
+---
+
+## 2. Key Accomplishments & Deliverables
+
+### A. Threat Identification & Phishing Analysis
+* **Email & Social Engineering Audits:** Analyzed suspicious email communications, header metadata, and malicious indicators (URLs, spoofed domains, payload triggers) to flag phishing threats.
+* **Incident Triage & Reporting:** Categorized attack vectors based on threat severity, reporting findings to ensure rapid containment and proactive defense.
+
+### B. Security Awareness & Risk Assessment
+* **Departmental Vulnerability Profiling:** Analyzed organizational performance metrics to identify business units exhibiting higher susceptibility to social engineering attacks.
+* **Targeted Training Strategy:** Designed custom security awareness training modules and standard operating procedures (SOPs) tailored to specific high-risk teams, addressing gaps in data handling and email verification.
+
+---
+
+## 3. Core Competencies Demonstrated
+
+| Area | Focus & Application |
+| :--- | :--- |
+| **Phishing & Threat Analysis** | Identifying indicators of compromise (IoCs), email header analysis, and malicious link detection. |
+| **Risk Mitigation** | Assessing departmental security posture and implementing targeted educational interventions. |
+| **Security Governance** | Drafting clear security awareness procedures and training guidelines to enforce enterprise compliance. |
+
+---
+
+## 4. Repository Structure
+
+```text
+📁 Mastercard-Cybersecurity-Simulation
+│
+├── 📄 README.md                             <-- Project Overview & Summary
+├── 📄 threat_identification_and_phishing_analysis.md  <-- Threat Analysis & Triage Report
+└── 📄 security_awareness_training_plan.md   <-- Business Unit Training Strategy & SOPs
