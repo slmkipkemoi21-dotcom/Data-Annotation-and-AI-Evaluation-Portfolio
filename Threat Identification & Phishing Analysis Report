@@ -1,0 +1,39 @@
+# Threat Identification & Phishing Analysis Report
+
+**Role:** Security Awareness Analyst  
+**Organization:** Mastercard Security Awareness Team  
+**Focus:** Phishing Detection, Indicator of Compromise (IoC) Identification & Triage  
+
+---
+
+## 1. Threat Overview
+Social engineering, particularly email phishing, remains one of the primary entry vectors for enterprise security breaches. This document highlights the methodology and findings for identifying, analyzing, and triaging suspicious email communications directed at Mastercard personnel.
+
+---
+
+## 2. Key Indicators of Compromise (IoCs) Identified
+
+When evaluating suspicious communications, emails were audited against the following core threat vectors:
+
+* **Header Metadata Anomaly:** Mismatch between the display name and the actual `Return-Path` or `SMTP` sender address (domain spoofing).
+* **Urgency & Coercion Tactics:** High-pressure language demanding immediate credential verification, payment authorization, or password resets.
+* **Malicious Payloads & Links:** 
+  * Hyperlinks masking external, unverified third-party domains (e.g., `mastercard-security-update.com` vs. official internal domains).
+  * Suspicious attachments containing macro-enabled documents or executable file extensions (`.exe`, `.zip`, `.xlsm`).
+* **Branding & Visual Impersonation:** Misaligned logos, low-resolution typography, and non-standard email footers imitating internal IT or HR departments.
+
+---
+
+## 3. Incident Triage & Response Matrix
+
+| Threat Severity | Identified Vectors | Action Required | Response Time Frame |
+| :--- | :--- | :--- | :--- |
+| **High / Critical** | Active credential harvesting links, executable attachments | Domain block on email gateway, revoke user session, purge email from all inboxes | Immediate (< 15 mins) |
+| **Medium** | Generic spam, unverified bulk vendor requests | Blacklist sender domain, notify targeted users | < 2 hours |
+| **Low / False Positive** | Legitimate automated notification with altered formatting | Mark as safe, update internal whitelist rules | < 24 hours |
+
+---
+
+## 4. Key Analyst Recommendations
+1. **Automated Gateway Filtering:** Enforce strict SPF, DKIM, and DMARC alignment checks across incoming email gateways to drop spoofed domain traffic before reaching user inboxes.
+2. **One-Click Incident Reporting:** Streamline user reporting tools within email clients to allow staff to flag suspicious emails directly to the Security Operations Center (SOC) with a single click.
