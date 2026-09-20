@@ -1,0 +1,42 @@
+# BCG GenAI Consulting — Financial AI Chatbot Simulation
+
+**Role:** GenAI Consultant / AI Engineer (Simulation)  
+**Organization:** Boston Consulting Group (BCG) via Forage  
+**Domain:** Financial Analytics, Rule-Based AI, Natural Language Querying, SEC 10-K/10-Q Report Processing  
+**Tools & Tech Stack:** Python 3.x, Pandas, Rule-Based Natural Language Processing (NLP), Financial Ratio Analysis  
+
+---
+
+## 1. Executive Overview
+
+During this job simulation with BCG's GenAI Consulting team, I designed and implemented a Python-powered financial AI chatbot capable of ingesting, parsing, and interpreting complex financial data from SEC filings (10-K and 10-Q reports). The chatbot applies rule-based logic and automated financial calculations to transform dense balance sheet and income statement metrics into accessible, user-friendly business insights.
+
+---
+
+## 2. Key Accomplishments & Deliverables
+
+* **Financial Data Engineering:** Processed structured financial datasets from corporate 10-K/10-Q filings (Revenue, Net Income, Total Assets, Total Liabilities, Operating Cash Flow) using `pandas`.
+* **Rule-Based Conversational Engine:** Developed a deterministic logic framework to process user queries, extract targeted financial metrics, and compute key performance indicators (Year-over-Year revenue growth, net profit margins, and debt-to-equity ratios).
+* **Consulting & Analytical Delivery:** Structured chatbot responses to adhere to BCG's executive presentation standards, providing concise financial summaries and trend analyses alongside raw numbers.
+
+---
+
+## 3. Core Capabilities Demonstrated
+
+| Domain | Application & Skill Set |
+| :--- | :--- |
+| **Financial Data Analysis** | Extraction and synthesis of metrics from SEC 10-K/10-Q reports. |
+| **Python Data Science** | Data manipulation, filtering, and aggregation using `pandas`. |
+| **AI & Rule-Based Logic** | Designing intent recognition pipelines and automated insight generation. |
+| **Business Communication** | Translating quantitative metrics into clear executive summaries. |
+
+---
+
+## 4. Repository Structure
+
+```text
+📁 BCG-GenAI-Financial-Chatbot
+│
+├── 📄 README.md                             <-- Project Overview & Summary
+├── 📄 financial_data_extraction_and_logic.md <-- Financial Logic & Rules Spec
+└── 🐍 chatbot_implementation.py             <-- Interactive Python Prototype
