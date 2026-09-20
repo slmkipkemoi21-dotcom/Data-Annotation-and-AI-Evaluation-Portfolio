@@ -1,0 +1,42 @@
+# Red Bull — On-Premise Sales & Account Optimization Simulation
+
+**Role:** On-Premise Account Manager / Sales Analyst (Simulation)  
+**Organization:** Red Bull via Forage  
+**Domain:** On-Premise Sales Analytics, Account Performance Visualization, Consultative Pitching, Objection Handling  
+**Tools & Methodologies:** Microsoft Excel (Data Visualization & Pivot Tables), Active Listening, Social Proof Framing, Key Account Strategy  
+
+---
+
+## 1. Executive Overview
+
+During this job simulation with Red Bull's On-Premise Sales team, I evaluated venue account performance across bars, clubs, and hospitality venues. Using Microsoft Excel, I analyzed sales metrics to identify top- and bottom-performing client accounts, communicated performance drivers to internal sales leaders, and executed a consultative objection-handling strategy using active listening and social proof to secure prominent menu and cooler placement in a key venue.
+
+---
+
+## 2. Key Accomplishments & Deliverables
+
+* **Account Data Visualization (Excel):** Audited venue transaction data, volume movement, and account trends in Excel using Pivot Tables and charts to categorize high-performing vs. underperforming on-premise clients.
+* **Internal Performance Reporting:** Synthesized quantitative data into actionable team briefings, isolating key performance drivers (e.g., menu prominence, cooler placement, staff training, signature cocktail inclusion).
+* **Client Objection Handling & Social Proof:** Overcame client hesitations regarding product placement by applying active listening techniques and leveraging regional social proof metrics, successfully negotiating prime bar real estate for Red Bull.
+
+---
+
+## 3. Core Competencies Demonstrated
+
+| Domain | Application & Skill Set |
+| :--- | :--- |
+| **Sales Analytics & Excel** | Data visualization, venue performance ranking, trend identification. |
+| **Account Strategy** | Identifying growth levers in hospitality/on-premise environments. |
+| **Consultative Selling** | Active listening, objection resolution, social proof positioning. |
+| **Stakeholder Communication** | Translating raw sales data into persuasive executive updates. |
+
+---
+
+## 4. Repository Structure
+
+```text
+📁 RedBull-OnPremise-Sales-Simulation
+│
+├── 📄 README.md                             <-- Project Overview & Summary
+├── 📄 account_performance_analysis.md       <-- Excel Data Insights & Venue Rankings
+└── 📄 objection_handling_and_client_strategy.md <-- Active Listening & Negotiation Script
