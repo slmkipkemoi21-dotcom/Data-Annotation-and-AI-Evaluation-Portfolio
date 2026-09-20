@@ -1,0 +1,44 @@
+# Mastercard Advisors & Consulting Services — Data-Driven Marketing Analytics Simulation
+
+**Role:** Marketing Analytics Consultant (Simulation)  
+**Organization:** Mastercard Advisors & Consulting Services via Forage  
+**Completed:** September 7, 2026  
+**Domain:** Statistical Data Analysis, Customer Engagement Profiling, Campaign ROI Optimization, Data Storytelling  
+**Tools & Methodologies:** Python (`pandas`, `scipy.stats`), Data Visualization, Comparative Trend Analysis, Strategic Narrative Framing  
+
+---
+
+## 1. Executive Overview
+
+During this consulting simulation with Mastercard Advisors, I performed statistical sales and customer engagement analysis on a comprehensive transaction dataset. By evaluating purchasing trends, customer segmentation metrics, and campaign response rates, I translated complex quantitative findings into a strategic marketing proposal designed to maximize Return on Investment (ROI) and optimize merchant engagement strategies for non-technical stakeholders.
+
+---
+
+## 2. Key Accomplishments & Deliverables
+
+* **Statistical Trend Analysis:** Conducted exploratory data analysis (EDA) and comparative statistical evaluations across sales channels, identifying core growth drivers and underperforming customer touchpoints.
+* **Customer Engagement Profiling:** Analyzed transaction frequency, basket size, and campaign conversion rates to segment high-value customer cohorts.
+* **Strategic Narrative & Data Storytelling:** Synthesized technical statistical outputs into clear executive visualizations and compelling strategic narratives tailored for non-technical decision-makers.
+* **Actionable ROI Recommendations:** Formulated targeted marketing campaigns and resource allocation frameworks designed to boost customer retention and transaction velocity.
+
+---
+
+## 3. Core Competencies Demonstrated
+
+| Domain | Application & Skill Set |
+| :--- | :--- |
+| **Statistical Analysis** | Descriptive statistics, comparative cohort analysis, and trend identification. |
+| **Data Storytelling** | Converting statistical outputs into executive-level narratives and visual charts. |
+| **Marketing Strategy** | Customer segmentation, campaign ROI modeling, and targeted engagement planning. |
+| **Consulting Communication** | Presenting data-driven insights clearly to non-technical business leaders. |
+
+---
+
+## 4. Repository Structure
+
+```text
+📁 Mastercard-Advisors-Marketing-Analytics
+│
+├── 📄 README.md                             <-- Project Overview & Summary
+├── 📄 statistical_sales_analysis.md         <-- Data Trends, Metrics & Methodology
+└── 📄 strategic_marketing_proposal.md       <-- Executive Recommendations & ROI Strategy
