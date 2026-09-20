@@ -13,6 +13,25 @@ Welcome! This repository documents my practical experience in data annotation, m
 ---
 
 ## 📂 Featured Projects & Job Simulations
+### 4. BCG GenAI Consulting — Financial AI Chatbot
+**Focus:** Generative AI Strategy, Financial Data Mining (10-K/10-Q), Rule-Based Chatbot Logic & Python Analytics  
+- **Objective:** Built an AI-powered financial assistant for BCG's GenAI team to convert dense SEC financial filings into interactive executive insights.
+- **Key Contributions:**
+  - Implemented `pandas` data pipelines to parse balance sheets and income statements from 10-K and 10-Q reports.
+  - Engineered rule-based NLP intent classification logic to process natural language questions on corporate health.
+  - Automated calculation of key financial performance metrics including YoY revenue growth, profit margins, and debt ratios.
+- **Deliverables:** `[View BCG GenAI Chatbot Folder](./01-Engineering-Job-Simulations/BCG-GenAI-Financial-Chatbot)`
+
+---
+
+### 5. Red Bull On-Premise Sales & Account Simulation
+**Focus:** On-Premise Analytics, Excel Data Visualization, Consultative Selling & Objection Handling  
+- **Objective:** Analyzed venue performance data across on-premise clients for Red Bull and executed data-backed negotiation strategies to expand product placement.
+- **Key Contributions:**
+  - Built Excel data visualization frameworks to identify high- and under-performing venues based on sales volume and placement.
+  - Formulated strategy briefs for internal field sales teams, identifying menu prominence and POS placement as key growth drivers.
+  - Leveraged active listening techniques and social proof data to resolve client objections and secure prime bar real estate.
+- **Deliverables:** `[View Red Bull Sales Simulation Folder](./01-Engineering-Job-Simulations/RedBull-OnPremise-Sales-Simulation)`
 
 ### 1. Robotics & Control Engineering Simulation — Johnson & Johnson MedTech
 **Focus:** Control System Optimization & Hardware-Software Diagnostic  
