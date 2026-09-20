@@ -48,5 +48,5 @@ Welcome! This repository documents my practical experience in data annotation, m
 
 ## 📬 Contact
 - **Name:** Salim Kipkemoi
-- **LinkedIn:** [Insert Your LinkedIn Link]
-- **Email:** [Insert Your Email]# Data-Annotation-and-AI-Evaluation-Portfolio
+- **LinkedIn:** [(https://www.linkedin.com/in/salim-kipkemoi-10a970236/)]
+- **Email:** [slmkipkemoi21@gmail.com]# Data-Annotation-and-AI-Evaluation-Portfolio
